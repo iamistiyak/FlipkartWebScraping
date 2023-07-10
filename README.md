@@ -14,3 +14,5 @@
 | FlipkartWebScrapingTutorial.ipynb | Show the each and every step of the web-scraping |
 |  FlipkartWebScrapingDataSet.csv | Final stored data |
 
+![inspect](https://github.com/iamistiyak/FlipkartWebScraping/assets/86108816/3f15dcba-c19b-4839-bd7d-4fc6bbb82994)
+![Uploading product.png…]()
