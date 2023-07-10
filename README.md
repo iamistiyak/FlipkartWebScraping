@@ -3,12 +3,7 @@
 
 | Files | Description |
 | :--- | --- |
-| | Command | Description |
-| :--- | --- |
-| df.read_csv | Read the csv files |
-| df.read_excel | Read the excel files |
-| df.read_table | Read text file as a table form |
-| pd.set_option('display.max.rows', 235)| Can see the all the rows || Read the csv files |
-| df.read_excel | Read the excel files |
-| df.read_table | Read text file as a table form |
-| pd.set_option('display.max.rows', 235)| Can see the all the rows |
+| FlipkartWebScrapingFinal.ipynb | Read the csv files |
+| FlipkartWebScrapingTutorial.ipynb | Read the excel files |
+|  FlipkartWebScrapingTutorial.csv | Read text file as a table form |
+
